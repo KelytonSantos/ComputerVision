@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/main.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/main.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/main.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/camera/Camera.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/camera/Camera.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/camera/Camera.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/camera/Camera.cpp.o"
+},
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/detection/FaceDetector.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/detection/FaceDetector.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/detection/FaceDetector.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/detection/FaceDetector.cpp.o"
+},
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/tracking/FaceTracker.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/tracking/FaceTracker.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/tracking/FaceTracker.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/tracking/FaceTracker.cpp.o"
+},
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/control/PID.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/control/PID.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/control/PID.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/control/PID.cpp.o"
+},
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/control/Controller.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/control/Controller.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/control/Controller.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/control/Controller.cpp.o"
+},
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/serial/Serial.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/serial/Serial.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/serial/Serial.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/serial/Serial.cpp.o"
+},
+{
+  "directory": "/home/lucas/Desktop/HailMary/computerVision/build",
+  "command": "/usr/bin/g++  -I/home/lucas/Desktop/HailMary/computerVision/include -isystem /usr/include/opencv4 -g -std=c++17 -o CMakeFiles/computerVision.dir/src/utils/FPSCounter.cpp.o -c /home/lucas/Desktop/HailMary/computerVision/src/utils/FPSCounter.cpp",
+  "file": "/home/lucas/Desktop/HailMary/computerVision/src/utils/FPSCounter.cpp",
+  "output": "CMakeFiles/computerVision.dir/src/utils/FPSCounter.cpp.o"
+}
+]
