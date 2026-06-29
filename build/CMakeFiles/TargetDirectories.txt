@@ -1,3 +1,0 @@
-/home/lucas/Desktop/HailMary/computerVision/build/CMakeFiles/computerVision.dir
-/home/lucas/Desktop/HailMary/computerVision/build/CMakeFiles/edit_cache.dir
-/home/lucas/Desktop/HailMary/computerVision/build/CMakeFiles/rebuild_cache.dir
